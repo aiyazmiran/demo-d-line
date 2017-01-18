@@ -1,0 +1,28 @@
+.container {
+  width: 80%;
+  margin: 15px auto;
+}
+.h2, h2 {
+    font-size: 40px;
+    text-align: center;
+}
+.center {
+	    margin-top: 3%;
+    text-align: center;
+    font-family: 'Lato', sans-serif;
+}
+p.description {
+    font-size: 24px;    
+    margin-bottom: 35px;
+}
+h1.brand {
+    font-size: 50px;
+}
+button.mdl-button.mdl-js-button.mdl-button--raised.mdl-js-ripple-effect.mdl-button--accent {
+    background: #F44336;
+}
+.row {
+    margin-right: -15px;
+    margin-bottom: 6%;
+    margin-left: -15px;
+}
