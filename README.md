@@ -6,7 +6,7 @@ D-line is just a personal thought ended up being a repository here. Its currentl
 
 ![Alt text](dep.png "D reports")
 
-Demo at : http://www.mohammadshahebaz.com/dline/
+Demo at : http://www.mohammadshahebaz.com/github/dline/
 
 Official repo for D-line: https://github.com/shaz13/d-line-app
 
